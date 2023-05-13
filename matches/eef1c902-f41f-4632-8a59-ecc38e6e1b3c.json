@@ -1,0 +1,3012 @@
+{
+    "is_available": true,
+    "metadata": {
+        "map": "Haven",
+        "game_version": "release-06.08-shipping-16-872655",
+        "game_length": 184,
+        "game_start": 1683162789,
+        "game_start_patched": "Thursday, May 4, 2023 1:13 AM",
+        "rounds_played": 1,
+        "mode": "Premier",
+        "queue": "Standard",
+        "season_id": "2de5423b-4aad-02ad-8d9b-c0a931958861",
+        "platform": "PC",
+        "matchid": "eef1c902-f41f-4632-8a59-ecc38e6e1b3c",
+        "region": "na",
+        "cluster": "US East (N. Virginia)"
+    },
+    "players": {
+        "all_players": [
+            {
+                "puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+                "name": "Glory",
+                "tag": "him",
+                "team": "Red",
+                "level": 436,
+                "character": "KAY/O",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "dbf1b46f-480f-cfbd-8fa8-22a80f8a589d",
+                "player_title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 137,
+                    "seconds": 8220,
+                    "milliseconds": 8220000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 105
+            },
+            {
+                "puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                "name": "OCCC Her Sage",
+                "tag": "7976",
+                "team": "Red",
+                "level": 28,
+                "character": "Brimstone",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "23a03943-4c16-0de4-0fe0-b9bcba24a26a",
+                "player_title": "302f332d-4a9a-1f2c-9331-779b338fdcc7",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 151,
+                    "seconds": 9060,
+                    "milliseconds": 9060000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 100,
+                        "average": 100
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 135
+            },
+            {
+                "puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                "name": "OCCC Esmae",
+                "tag": "Trans",
+                "team": "Red",
+                "level": 42,
+                "character": "Breach",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "86375046-4f22-9dc8-f8d8-b3b4d029cd4b",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 12,
+                    "seconds": 720,
+                    "milliseconds": 720000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 130
+            },
+            {
+                "puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                "name": "PixelCreator",
+                "tag": "NA1",
+                "team": "Blue",
+                "level": 121,
+                "character": "Omen",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "68b0c8c2-4158-7b21-658d-b4ae86f137ce",
+                "player_title": "3a8f14a7-43e0-5c08-d021-41a5d8b3c983",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 106,
+                    "seconds": 6360,
+                    "milliseconds": 6360000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 190,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 2,
+                    "headshots": 1,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 700,
+                        "average": 700
+                    },
+                    "loadout_value": {
+                        "overall": 850,
+                        "average": 850
+                    }
+                },
+                "damage_made": 130,
+                "damage_received": 0
+            },
+            {
+                "puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                "name": "Nagi",
+                "tag": "8153",
+                "team": "Red",
+                "level": 149,
+                "character": "Sova",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f",
+                "player_title": "e23eaf20-4fb2-5c01-03b0-4fa7f14fbfbd",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 133,
+                    "seconds": 7980,
+                    "milliseconds": 7980000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 105
+            },
+            {
+                "puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                "name": "OCCC vis",
+                "tag": "ezaf",
+                "team": "Red",
+                "level": 311,
+                "character": "Fade",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "d79b67c0-4a2b-d865-a6c4-b3bca5356200",
+                "player_title": "42e2f97d-4e69-274c-589c-0fbdeb397df9",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 164,
+                    "seconds": 9840,
+                    "milliseconds": 9840000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 120
+            },
+            {
+                "puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                "name": "NisLuck",
+                "tag": "415",
+                "team": "Blue",
+                "level": 138,
+                "character": "Jett",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "24d76e1f-4f62-934b-f811-e096b105b92a",
+                "player_title": "18d5ee78-4a55-d1bb-205f-29ac410b5a7d",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 157,
+                    "seconds": 9420,
+                    "milliseconds": 9420000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 2,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 890,
+                    "kills": 4,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 500,
+                        "average": 500
+                    },
+                    "loadout_value": {
+                        "overall": 500,
+                        "average": 500
+                    }
+                },
+                "damage_made": 345,
+                "damage_received": 0
+            },
+            {
+                "puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                "name": "karScared",
+                "tag": "Toast",
+                "team": "Blue",
+                "level": 300,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 95,
+                    "seconds": 5700,
+                    "milliseconds": 5700000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22000.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 1,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 30,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 650,
+                        "average": 650
+                    }
+                },
+                "damage_made": 30,
+                "damage_received": 0
+            },
+            {
+                "puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                "name": "Kei Karuizawa",
+                "tag": "Cute",
+                "team": "Blue",
+                "level": 154,
+                "character": "Fade",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "86375046-4f22-9dc8-f8d8-b3b4d029cd4b",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 81,
+                    "seconds": 4860,
+                    "milliseconds": 4860000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 1,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 105,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 3,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 750,
+                        "average": 750
+                    },
+                    "loadout_value": {
+                        "overall": 750,
+                        "average": 750
+                    }
+                },
+                "damage_made": 30,
+                "damage_received": 0
+            },
+            {
+                "puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                "name": "AtlasFlare",
+                "tag": "555",
+                "team": "Blue",
+                "level": 106,
+                "character": "Harbor",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "9ee85a55-4b94-e382-b8a8-f985a33c1cc2",
+                "player_title": "bf097526-4503-6b17-2859-49a67bde66d2",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 77,
+                    "seconds": 4620,
+                    "milliseconds": 4620000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 1,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 60,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 2,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 800,
+                        "average": 800
+                    }
+                },
+                "damage_made": 60,
+                "damage_received": 0
+            }
+        ],
+        "red": [
+            {
+                "puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+                "name": "Glory",
+                "tag": "him",
+                "team": "Red",
+                "level": 436,
+                "character": "KAY/O",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "dbf1b46f-480f-cfbd-8fa8-22a80f8a589d",
+                "player_title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 137,
+                    "seconds": 8220,
+                    "milliseconds": 8220000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/dbf1b46f-480f-cfbd-8fa8-22a80f8a589d/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 105
+            },
+            {
+                "puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                "name": "OCCC Her Sage",
+                "tag": "7976",
+                "team": "Red",
+                "level": 28,
+                "character": "Brimstone",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "23a03943-4c16-0de4-0fe0-b9bcba24a26a",
+                "player_title": "302f332d-4a9a-1f2c-9331-779b338fdcc7",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 151,
+                    "seconds": 9060,
+                    "milliseconds": 9060000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/23a03943-4c16-0de4-0fe0-b9bcba24a26a/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 100,
+                        "average": 100
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 135
+            },
+            {
+                "puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                "name": "OCCC Esmae",
+                "tag": "Trans",
+                "team": "Red",
+                "level": 42,
+                "character": "Breach",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "86375046-4f22-9dc8-f8d8-b3b4d029cd4b",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 12,
+                    "seconds": 720,
+                    "milliseconds": 720000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 130
+            },
+            {
+                "puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                "name": "Nagi",
+                "tag": "8153",
+                "team": "Red",
+                "level": 149,
+                "character": "Sova",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "c5d4cd0b-49fa-0b9c-55c7-9b828f83413f",
+                "player_title": "e23eaf20-4fb2-5c01-03b0-4fa7f14fbfbd",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 133,
+                    "seconds": 7980,
+                    "milliseconds": 7980000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/c5d4cd0b-49fa-0b9c-55c7-9b828f83413f/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 105
+            },
+            {
+                "puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                "name": "OCCC vis",
+                "tag": "ezaf",
+                "team": "Red",
+                "level": 311,
+                "character": "Fade",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "d79b67c0-4a2b-d865-a6c4-b3bca5356200",
+                "player_title": "42e2f97d-4e69-274c-589c-0fbdeb397df9",
+                "party_id": "7cf54619-6c8b-4787-bd2c-ec0002a58d5b",
+                "session_playtime": {
+                    "minutes": 164,
+                    "seconds": 9840,
+                    "milliseconds": 9840000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/d79b67c0-4a2b-d865-a6c4-b3bca5356200/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 120
+            }
+        ],
+        "blue": [
+            {
+                "puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                "name": "PixelCreator",
+                "tag": "NA1",
+                "team": "Blue",
+                "level": 121,
+                "character": "Omen",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "68b0c8c2-4158-7b21-658d-b4ae86f137ce",
+                "player_title": "3a8f14a7-43e0-5c08-d021-41a5d8b3c983",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 106,
+                    "seconds": 6360,
+                    "milliseconds": 6360000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/68b0c8c2-4158-7b21-658d-b4ae86f137ce/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 190,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 2,
+                    "headshots": 1,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 700,
+                        "average": 700
+                    },
+                    "loadout_value": {
+                        "overall": 850,
+                        "average": 850
+                    }
+                },
+                "damage_made": 130,
+                "damage_received": 0
+            },
+            {
+                "puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                "name": "NisLuck",
+                "tag": "415",
+                "team": "Blue",
+                "level": 138,
+                "character": "Jett",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "24d76e1f-4f62-934b-f811-e096b105b92a",
+                "player_title": "18d5ee78-4a55-d1bb-205f-29ac410b5a7d",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 157,
+                    "seconds": 9420,
+                    "milliseconds": 9420000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 2,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/24d76e1f-4f62-934b-f811-e096b105b92a/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 890,
+                    "kills": 4,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 500,
+                        "average": 500
+                    },
+                    "loadout_value": {
+                        "overall": 500,
+                        "average": 500
+                    }
+                },
+                "damage_made": 345,
+                "damage_received": 0
+            },
+            {
+                "puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                "name": "karScared",
+                "tag": "Toast",
+                "team": "Blue",
+                "level": 300,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 95,
+                    "seconds": 5700,
+                    "milliseconds": 5700000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22000.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 1,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 30,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 650,
+                        "average": 650
+                    }
+                },
+                "damage_made": 30,
+                "damage_received": 0
+            },
+            {
+                "puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                "name": "Kei Karuizawa",
+                "tag": "Cute",
+                "team": "Blue",
+                "level": 154,
+                "character": "Fade",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a6d48dd0-40eb-e2f0-d862-219df87a9583",
+                "player_title": "86375046-4f22-9dc8-f8d8-b3b4d029cd4b",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 81,
+                    "seconds": 4860,
+                    "milliseconds": 4860000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 1,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a6d48dd0-40eb-e2f0-d862-219df87a9583/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 105,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 3,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 750,
+                        "average": 750
+                    },
+                    "loadout_value": {
+                        "overall": 750,
+                        "average": 750
+                    }
+                },
+                "damage_made": 30,
+                "damage_received": 0
+            },
+            {
+                "puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                "name": "AtlasFlare",
+                "tag": "555",
+                "team": "Blue",
+                "level": 106,
+                "character": "Harbor",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "9ee85a55-4b94-e382-b8a8-f985a33c1cc2",
+                "player_title": "bf097526-4503-6b17-2859-49a67bde66d2",
+                "party_id": "27ad1bd1-c47f-405d-a3d1-4c557dedb6b2",
+                "session_playtime": {
+                    "minutes": 77,
+                    "seconds": 4620,
+                    "milliseconds": 4620000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 0,
+                    "e_cast": 1,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/9ee85a55-4b94-e382-b8a8-f985a33c1cc2/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 60,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 2,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 800,
+                        "average": 800
+                    }
+                },
+                "damage_made": 60,
+                "damage_received": 0
+            }
+        ]
+    },
+    "teams": {
+        "red": {
+            "has_won": false,
+            "rounds_won": 0,
+            "rounds_lost": 1
+        },
+        "blue": {
+            "has_won": true,
+            "rounds_won": 1,
+            "rounds_lost": 0
+        }
+    },
+    "rounds": [
+        {
+            "winning_team": "Blue",
+            "end_type": "Eliminated",
+            "bomb_planted": false,
+            "bomb_defused": false,
+            "plant_events": {
+                "plant_location": null,
+                "planted_by": null,
+                "plant_site": null,
+                "plant_time_in_round": null,
+                "player_locations_on_plant": null
+            },
+            "defuse_events": {
+                "defuse_location": null,
+                "defused_by": null,
+                "defuse_time_in_round": null,
+                "player_locations_on_defuse": null
+            },
+            "player_stats": [
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                            "receiver_display_name": "OCCC Esmae#Trans",
+                            "receiver_team": "Red",
+                            "bodyshots": 2,
+                            "damage": 130,
+                            "headshots": 1,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 130,
+                    "bodyshots": 2,
+                    "headshots": 1,
+                    "legshots": 0,
+                    "kill_events": [
+                        {
+                            "kill_time_in_round": 9159,
+                            "kill_time_in_match": 174190,
+                            "killer_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                            "killer_display_name": "PixelCreator#NA1",
+                            "killer_team": "Blue",
+                            "victim_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                            "victim_display_name": "OCCC Esmae#Trans",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 2099,
+                                "y": -2099
+                            },
+                            "damage_weapon_id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+                            "damage_weapon_name": "Frenzy",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                                    "player_display_name": "PixelCreator#NA1",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2125,
+                                        "y": -3705
+                                    },
+                                    "view_radians": 1.5823009
+                                },
+                                {
+                                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                                    "player_display_name": "NisLuck#415",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 296,
+                                        "y": -3349
+                                    },
+                                    "view_radians": 0.8768623
+                                },
+                                {
+                                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                                    "player_display_name": "AtlasFlare#555",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2098,
+                                        "y": -4113
+                                    },
+                                    "view_radians": 1.8335878
+                                },
+                                {
+                                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                                    "player_display_name": "karScared#Toast",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2157,
+                                        "y": -4172
+                                    },
+                                    "view_radians": 1.854104
+                                },
+                                {
+                                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "player_display_name": "Kei Karuizawa#Cute",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2329,
+                                        "y": -4606
+                                    },
+                                    "view_radians": 1.9310894
+                                },
+                                {
+                                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                                    "player_display_name": "OCCC vis#ezaf",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1799,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                }
+                            ],
+                            "assistants": [
+                                {
+                                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "assistant_display_name": "Kei Karuizawa#Cute",
+                                    "assistant_team": "Blue"
+                                }
+                            ]
+                        }
+                    ],
+                    "kills": 1,
+                    "score": 190,
+                    "economy": {
+                        "loadout_value": 850,
+                        "weapon": {
+                            "id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+                            "name": "Frenzy",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 100,
+                        "spent": 700
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+                            "receiver_display_name": "Glory#him",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 105,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                            "receiver_display_name": "Nagi#8153",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 105,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                            "receiver_display_name": "OCCC Her Sage#7976",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 105,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                            "receiver_display_name": "OCCC vis#ezaf",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 30,
+                            "headshots": 0,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 345,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0,
+                    "kill_events": [
+                        {
+                            "kill_time_in_round": 7700,
+                            "kill_time_in_match": 172731,
+                            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                            "killer_display_name": "NisLuck#415",
+                            "killer_team": "Blue",
+                            "victim_puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+                            "victim_display_name": "Glory#him",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 899,
+                                "y": -2099
+                            },
+                            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "damage_weapon_name": "Ghost",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                                    "player_display_name": "PixelCreator#NA1",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2215,
+                                        "y": -4473
+                                    },
+                                    "view_radians": 1.7920485
+                                },
+                                {
+                                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                                    "player_display_name": "NisLuck#415",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 296,
+                                        "y": -3349
+                                    },
+                                    "view_radians": 1.1184644
+                                },
+                                {
+                                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                                    "player_display_name": "AtlasFlare#555",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2363,
+                                        "y": -4681
+                                    },
+                                    "view_radians": 1.8693473
+                                },
+                                {
+                                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                                    "player_display_name": "karScared#Toast",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2506,
+                                        "y": -4841
+                                    },
+                                    "view_radians": 2.159078
+                                },
+                                {
+                                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "player_display_name": "Kei Karuizawa#Cute",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2431,
+                                        "y": -5446
+                                    },
+                                    "view_radians": 1.6156967
+                                },
+                                {
+                                    "player_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                                    "player_display_name": "OCCC Her Sage#7976",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1499,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                                    "player_display_name": "OCCC vis#ezaf",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1799,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                                    "player_display_name": "Nagi#8153",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1199,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                                    "player_display_name": "OCCC Esmae#Trans",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2099,
+                                        "y": -2099
+                                    },
+                                    "view_radians": 4.7123866
+                                }
+                            ],
+                            "assistants": []
+                        },
+                        {
+                            "kill_time_in_round": 8312,
+                            "kill_time_in_match": 173343,
+                            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                            "killer_display_name": "NisLuck#415",
+                            "killer_team": "Blue",
+                            "victim_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                            "victim_display_name": "Nagi#8153",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1199,
+                                "y": -1899
+                            },
+                            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "damage_weapon_name": "Ghost",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                                    "player_display_name": "PixelCreator#NA1",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2147,
+                                        "y": -4102
+                                    },
+                                    "view_radians": 1.5981203
+                                },
+                                {
+                                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                                    "player_display_name": "NisLuck#415",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 296,
+                                        "y": -3349
+                                    },
+                                    "view_radians": 1.0087833
+                                },
+                                {
+                                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                                    "player_display_name": "AtlasFlare#555",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2207,
+                                        "y": -4334
+                                    },
+                                    "view_radians": 1.8759631
+                                },
+                                {
+                                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                                    "player_display_name": "karScared#Toast",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2292,
+                                        "y": -4509
+                                    },
+                                    "view_radians": 1.8313676
+                                },
+                                {
+                                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "player_display_name": "Kei Karuizawa#Cute",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2563,
+                                        "y": -5056
+                                    },
+                                    "view_radians": 1.8924531
+                                },
+                                {
+                                    "player_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                                    "player_display_name": "OCCC Her Sage#7976",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1499,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                                    "player_display_name": "OCCC vis#ezaf",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1799,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                                    "player_display_name": "OCCC Esmae#Trans",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2099,
+                                        "y": -2099
+                                    },
+                                    "view_radians": 4.7123866
+                                }
+                            ],
+                            "assistants": []
+                        },
+                        {
+                            "kill_time_in_round": 8994,
+                            "kill_time_in_match": 174025,
+                            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                            "killer_display_name": "NisLuck#415",
+                            "killer_team": "Blue",
+                            "victim_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                            "victim_display_name": "OCCC Her Sage#7976",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1499,
+                                "y": -1899
+                            },
+                            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "damage_weapon_name": "Ghost",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                                    "player_display_name": "PixelCreator#NA1",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2126,
+                                        "y": -3745
+                                    },
+                                    "view_radians": 1.5866733
+                                },
+                                {
+                                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                                    "player_display_name": "NisLuck#415",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 296,
+                                        "y": -3349
+                                    },
+                                    "view_radians": 0.87561595
+                                },
+                                {
+                                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                                    "player_display_name": "AtlasFlare#555",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2098,
+                                        "y": -4113
+                                    },
+                                    "view_radians": 1.8335878
+                                },
+                                {
+                                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                                    "player_display_name": "karScared#Toast",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2139,
+                                        "y": -4186
+                                    },
+                                    "view_radians": 1.828503
+                                },
+                                {
+                                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "player_display_name": "Kei Karuizawa#Cute",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2356,
+                                        "y": -4659
+                                    },
+                                    "view_radians": 1.932911
+                                },
+                                {
+                                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                                    "player_display_name": "OCCC vis#ezaf",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1799,
+                                        "y": -1899
+                                    },
+                                    "view_radians": 4.7123866
+                                },
+                                {
+                                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                                    "player_display_name": "OCCC Esmae#Trans",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2099,
+                                        "y": -2099
+                                    },
+                                    "view_radians": 4.7123866
+                                }
+                            ],
+                            "assistants": [
+                                {
+                                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "assistant_display_name": "Kei Karuizawa#Cute",
+                                    "assistant_team": "Blue"
+                                }
+                            ]
+                        },
+                        {
+                            "kill_time_in_round": 10137,
+                            "kill_time_in_match": 175168,
+                            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                            "killer_display_name": "NisLuck#415",
+                            "killer_team": "Blue",
+                            "victim_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                            "victim_display_name": "OCCC vis#ezaf",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1799,
+                                "y": -1899
+                            },
+                            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "damage_weapon_name": "Ghost",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                                    "player_display_name": "PixelCreator#NA1",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2083,
+                                        "y": -3393
+                                    },
+                                    "view_radians": 1.8228496
+                                },
+                                {
+                                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                                    "player_display_name": "NisLuck#415",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 296,
+                                        "y": -3349
+                                    },
+                                    "view_radians": 0.76948243
+                                },
+                                {
+                                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                                    "player_display_name": "AtlasFlare#555",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2093,
+                                        "y": -4086
+                                    },
+                                    "view_radians": 1.6983085
+                                },
+                                {
+                                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                                    "player_display_name": "karScared#Toast",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 2154,
+                                        "y": -4181
+                                    },
+                                    "view_radians": 1.7203594
+                                },
+                                {
+                                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "player_display_name": "Kei Karuizawa#Cute",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1986,
+                                        "y": -4158
+                                    },
+                                    "view_radians": 1.6454321
+                                }
+                            ],
+                            "assistants": [
+                                {
+                                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                                    "assistant_display_name": "Kei Karuizawa#Cute",
+                                    "assistant_team": "Blue"
+                                }
+                            ]
+                        }
+                    ],
+                    "kills": 4,
+                    "score": 890,
+                    "economy": {
+                        "loadout_value": 500,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 300,
+                        "spent": 500
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                            "receiver_display_name": "OCCC Her Sage#7976",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 30,
+                            "headshots": 0,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                            "receiver_display_name": "OCCC vis#ezaf",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 30,
+                            "headshots": 0,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 60,
+                    "bodyshots": 2,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 60,
+                    "economy": {
+                        "loadout_value": 800,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 0,
+                        "spent": 800
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                            "receiver_display_name": "OCCC vis#ezaf",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 30,
+                            "headshots": 0,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 30,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 30,
+                    "economy": {
+                        "loadout_value": 650,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 0,
+                        "spent": 800
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                            "receiver_display_name": "OCCC vis#ezaf",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 30,
+                            "headshots": 0,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 30,
+                    "bodyshots": 1,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 105,
+                    "economy": {
+                        "loadout_value": 750,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 50,
+                        "spent": 750
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                    "player_display_name": "OCCC Her Sage#7976",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 100,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+                    "player_display_name": "Glory#him",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                    "player_display_name": "OCCC vis#ezaf",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                    "player_display_name": "Nagi#8153",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                    "player_display_name": "OCCC Esmae#Trans",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                }
+            ]
+        }
+    ],
+    "kills": [
+        {
+            "kill_time_in_round": 7700,
+            "kill_time_in_match": 172731,
+            "round": 0,
+            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+            "killer_display_name": "NisLuck#415",
+            "killer_team": "Blue",
+            "victim_puuid": "4ff8b5e5-c523-5082-8208-0a10b79f8ef2",
+            "victim_display_name": "Glory#him",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 899,
+                "y": -2099
+            },
+            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+            "damage_weapon_name": "Ghost",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2215,
+                        "y": -4473
+                    },
+                    "view_radians": 1.7920485
+                },
+                {
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 296,
+                        "y": -3349
+                    },
+                    "view_radians": 1.1184644
+                },
+                {
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2363,
+                        "y": -4681
+                    },
+                    "view_radians": 1.8693473
+                },
+                {
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2506,
+                        "y": -4841
+                    },
+                    "view_radians": 2.159078
+                },
+                {
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2431,
+                        "y": -5446
+                    },
+                    "view_radians": 1.6156967
+                },
+                {
+                    "player_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                    "player_display_name": "OCCC Her Sage#7976",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1499,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                    "player_display_name": "OCCC vis#ezaf",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1799,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+                    "player_display_name": "Nagi#8153",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1199,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                    "player_display_name": "OCCC Esmae#Trans",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2099,
+                        "y": -2099
+                    },
+                    "view_radians": 4.7123866
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 8312,
+            "kill_time_in_match": 173343,
+            "round": 0,
+            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+            "killer_display_name": "NisLuck#415",
+            "killer_team": "Blue",
+            "victim_puuid": "eda8afed-fd7e-5cb0-8608-6029290c1858",
+            "victim_display_name": "Nagi#8153",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1199,
+                "y": -1899
+            },
+            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+            "damage_weapon_name": "Ghost",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2147,
+                        "y": -4102
+                    },
+                    "view_radians": 1.5981203
+                },
+                {
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 296,
+                        "y": -3349
+                    },
+                    "view_radians": 1.0087833
+                },
+                {
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2207,
+                        "y": -4334
+                    },
+                    "view_radians": 1.8759631
+                },
+                {
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2292,
+                        "y": -4509
+                    },
+                    "view_radians": 1.8313676
+                },
+                {
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2563,
+                        "y": -5056
+                    },
+                    "view_radians": 1.8924531
+                },
+                {
+                    "player_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+                    "player_display_name": "OCCC Her Sage#7976",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1499,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                    "player_display_name": "OCCC vis#ezaf",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1799,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                    "player_display_name": "OCCC Esmae#Trans",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2099,
+                        "y": -2099
+                    },
+                    "view_radians": 4.7123866
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 8994,
+            "kill_time_in_match": 174025,
+            "round": 0,
+            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+            "killer_display_name": "NisLuck#415",
+            "killer_team": "Blue",
+            "victim_puuid": "9fb18d2a-02c0-5bc6-adb3-ac19a6554175",
+            "victim_display_name": "OCCC Her Sage#7976",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1499,
+                "y": -1899
+            },
+            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+            "damage_weapon_name": "Ghost",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2126,
+                        "y": -3745
+                    },
+                    "view_radians": 1.5866733
+                },
+                {
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 296,
+                        "y": -3349
+                    },
+                    "view_radians": 0.87561595
+                },
+                {
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2098,
+                        "y": -4113
+                    },
+                    "view_radians": 1.8335878
+                },
+                {
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2139,
+                        "y": -4186
+                    },
+                    "view_radians": 1.828503
+                },
+                {
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2356,
+                        "y": -4659
+                    },
+                    "view_radians": 1.932911
+                },
+                {
+                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                    "player_display_name": "OCCC vis#ezaf",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1799,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                },
+                {
+                    "player_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+                    "player_display_name": "OCCC Esmae#Trans",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2099,
+                        "y": -2099
+                    },
+                    "view_radians": 4.7123866
+                }
+            ],
+            "assistants": [
+                {
+                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "assistant_display_name": "Kei Karuizawa#Cute",
+                    "assistant_team": "Blue"
+                }
+            ]
+        },
+        {
+            "kill_time_in_round": 9159,
+            "kill_time_in_match": 174190,
+            "round": 0,
+            "killer_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+            "killer_display_name": "PixelCreator#NA1",
+            "killer_team": "Blue",
+            "victim_puuid": "8fbd1680-d61a-5f67-814a-ed03341b31c6",
+            "victim_display_name": "OCCC Esmae#Trans",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 2099,
+                "y": -2099
+            },
+            "damage_weapon_id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+            "damage_weapon_name": "Frenzy",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2125,
+                        "y": -3705
+                    },
+                    "view_radians": 1.5823009
+                },
+                {
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 296,
+                        "y": -3349
+                    },
+                    "view_radians": 0.8768623
+                },
+                {
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2098,
+                        "y": -4113
+                    },
+                    "view_radians": 1.8335878
+                },
+                {
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2157,
+                        "y": -4172
+                    },
+                    "view_radians": 1.854104
+                },
+                {
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2329,
+                        "y": -4606
+                    },
+                    "view_radians": 1.9310894
+                },
+                {
+                    "player_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+                    "player_display_name": "OCCC vis#ezaf",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1799,
+                        "y": -1899
+                    },
+                    "view_radians": 4.7123866
+                }
+            ],
+            "assistants": [
+                {
+                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "assistant_display_name": "Kei Karuizawa#Cute",
+                    "assistant_team": "Blue"
+                }
+            ]
+        },
+        {
+            "kill_time_in_round": 10137,
+            "kill_time_in_match": 175168,
+            "round": 0,
+            "killer_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+            "killer_display_name": "NisLuck#415",
+            "killer_team": "Blue",
+            "victim_puuid": "d87a0bd2-49e4-5293-b118-05c485ec29dd",
+            "victim_display_name": "OCCC vis#ezaf",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1799,
+                "y": -1899
+            },
+            "damage_weapon_id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+            "damage_weapon_name": "Ghost",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "5147ca99-2b27-5dd4-9848-f2bf46413d81",
+                    "player_display_name": "PixelCreator#NA1",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2083,
+                        "y": -3393
+                    },
+                    "view_radians": 1.8228496
+                },
+                {
+                    "player_puuid": "ee94c219-7b2d-577e-8fa3-c7d31a706264",
+                    "player_display_name": "NisLuck#415",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 296,
+                        "y": -3349
+                    },
+                    "view_radians": 0.76948243
+                },
+                {
+                    "player_puuid": "e83bfdd3-164f-50e0-a4ef-f43a2a1745c1",
+                    "player_display_name": "AtlasFlare#555",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2093,
+                        "y": -4086
+                    },
+                    "view_radians": 1.6983085
+                },
+                {
+                    "player_puuid": "e4c8259e-651b-5e81-a15f-35c989432846",
+                    "player_display_name": "karScared#Toast",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 2154,
+                        "y": -4181
+                    },
+                    "view_radians": 1.7203594
+                },
+                {
+                    "player_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "player_display_name": "Kei Karuizawa#Cute",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1986,
+                        "y": -4158
+                    },
+                    "view_radians": 1.6454321
+                }
+            ],
+            "assistants": [
+                {
+                    "assistant_puuid": "adf3dd89-c45c-5d6c-a0f7-f5c046dc953e",
+                    "assistant_display_name": "Kei Karuizawa#Cute",
+                    "assistant_team": "Blue"
+                }
+            ]
+        }
+    ]
+}

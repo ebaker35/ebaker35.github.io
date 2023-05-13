@@ -1,0 +1,2960 @@
+{
+    "is_available": true,
+    "metadata": {
+        "map": "Split",
+        "game_version": "release-06.08-shipping-16-872655",
+        "game_length": 192,
+        "game_start": 1683163259,
+        "game_start_patched": "Thursday, May 4, 2023 1:20 AM",
+        "rounds_played": 1,
+        "mode": "Premier",
+        "queue": "Standard",
+        "season_id": "2de5423b-4aad-02ad-8d9b-c0a931958861",
+        "platform": "PC",
+        "matchid": "22ec29ce-3840-4885-8fcb-bca9047d7909",
+        "region": "na",
+        "cluster": "US Central (Georgia 2)"
+    },
+    "players": {
+        "all_players": [
+            {
+                "puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                "name": "a bad player 1",
+                "tag": "ezzzz",
+                "team": "Red",
+                "level": 143,
+                "character": "Chamber",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "ba21deb2-4dce-38c7-904c-9db6033738e3",
+                "player_title": "5b3510f1-49ac-dc6e-2158-bbbd09e071d1",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 122,
+                    "seconds": 7320,
+                    "milliseconds": 7320000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 243
+            },
+            {
+                "puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                "name": "SasukeBowser",
+                "tag": "6PATH",
+                "team": "Red",
+                "level": 147,
+                "character": "Phoenix",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "992b83fb-4947-5bb3-a080-ebbfff029ca9",
+                "player_title": "08bc0abb-4878-e384-6719-0196163cde67",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 140,
+                    "seconds": 8400,
+                    "milliseconds": 8400000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 156
+            },
+            {
+                "puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                "name": "Settled",
+                "tag": "0002",
+                "team": "Blue",
+                "level": 154,
+                "character": "Reyna",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "da6843a1-40de-aa1b-0c7f-848d6ffb9b39",
+                "player_title": "d67cef9b-43cd-bc8c-840d-039582975c2a",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 151,
+                    "seconds": 9060,
+                    "milliseconds": 9060000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 646,
+                    "kills": 3,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 1000,
+                        "average": 1000
+                    }
+                },
+                "damage_made": 477,
+                "damage_received": 0
+            },
+            {
+                "puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                "name": "Gary",
+                "tag": "F2P",
+                "team": "Blue",
+                "level": 100,
+                "character": "Cypher",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "2a280896-4e81-c319-ffd3-6b8873042647",
+                "player_title": "41c01df4-4d3d-d08d-58d4-e198763019f2",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 97,
+                    "seconds": 5820,
+                    "milliseconds": 5820000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 600,
+                        "average": 600
+                    },
+                    "loadout_value": {
+                        "overall": 600,
+                        "average": 600
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 0
+            },
+            {
+                "puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                "name": "600 ms",
+                "tag": "wifi",
+                "team": "Blue",
+                "level": 58,
+                "character": "KAY/O",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "bc4443d5-449f-b5eb-a179-4c9ff332294b",
+                "player_title": "0a4f7e1d-4478-e4fb-1bab-518d005034db",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 91,
+                    "seconds": 5460,
+                    "milliseconds": 5460000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 314,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 1,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 450,
+                        "average": 450
+                    },
+                    "loadout_value": {
+                        "overall": 450,
+                        "average": 450
+                    }
+                },
+                "damage_made": 240,
+                "damage_received": 0
+            },
+            {
+                "puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                "name": "Smol fwuit",
+                "tag": "NA1",
+                "team": "Red",
+                "level": 232,
+                "character": "Harbor",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a60742e6-418c-365a-9133-7c8e08720bfa",
+                "player_title": "171e2f90-41e0-48d0-bbf5-28a531c7eafb",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 190,
+                    "seconds": 11400,
+                    "milliseconds": 11400000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 156
+            },
+            {
+                "puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+                "name": "The Boys a Liarr",
+                "tag": "Munch",
+                "team": "Red",
+                "level": 169,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "59cb1a87-456b-9b1e-acef-3ca613286339",
+                "player_title": "63057041-4f65-5579-e5a6-d88ae7007ebb",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 188,
+                    "seconds": 11280,
+                    "milliseconds": 11280000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 150,
+                        "average": 150
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 159
+            },
+            {
+                "puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                "name": "XYT",
+                "tag": "NA1",
+                "team": "Red",
+                "level": 83,
+                "character": "Sage",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "55a41308-4fa5-4c3a-afda-86a61ef7ee41",
+                "player_title": "7a6bbce5-4708-42d0-2152-98963ebdcf2c",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 67,
+                    "seconds": 4020,
+                    "milliseconds": 4020000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 159
+            },
+            {
+                "puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                "name": "Sofa",
+                "tag": "1337",
+                "team": "Blue",
+                "level": 173,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "72f9b137-41f1-ef95-853a-798212f064ee",
+                "player_title": "184e2e0d-4df5-2979-9bb0-93b102cf38fd",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 148,
+                    "seconds": 8880,
+                    "milliseconds": 8880000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 650,
+                        "average": 650
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 0
+            },
+            {
+                "puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                "name": "Glunstan",
+                "tag": "WHAT",
+                "team": "Blue",
+                "level": 208,
+                "character": "Sage",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "8b8c15ec-432a-85ab-b58b-9b918877e4f7",
+                "player_title": "21dda67e-46d9-081d-0436-fc93fbb1331d",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 94,
+                    "seconds": 5640,
+                    "milliseconds": 5640000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 190,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 3,
+                    "headshots": 1,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 800,
+                        "average": 800
+                    }
+                },
+                "damage_made": 156,
+                "damage_received": 0
+            }
+        ],
+        "red": [
+            {
+                "puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                "name": "a bad player 1",
+                "tag": "ezzzz",
+                "team": "Red",
+                "level": 143,
+                "character": "Chamber",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "ba21deb2-4dce-38c7-904c-9db6033738e3",
+                "player_title": "5b3510f1-49ac-dc6e-2158-bbbd09e071d1",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 122,
+                    "seconds": 7320,
+                    "milliseconds": 7320000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/ba21deb2-4dce-38c7-904c-9db6033738e3/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 243
+            },
+            {
+                "puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                "name": "SasukeBowser",
+                "tag": "6PATH",
+                "team": "Red",
+                "level": 147,
+                "character": "Phoenix",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "992b83fb-4947-5bb3-a080-ebbfff029ca9",
+                "player_title": "08bc0abb-4878-e384-6719-0196163cde67",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 140,
+                    "seconds": 8400,
+                    "milliseconds": 8400000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/992b83fb-4947-5bb3-a080-ebbfff029ca9/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 156
+            },
+            {
+                "puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                "name": "Smol fwuit",
+                "tag": "NA1",
+                "team": "Red",
+                "level": 232,
+                "character": "Harbor",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "a60742e6-418c-365a-9133-7c8e08720bfa",
+                "player_title": "171e2f90-41e0-48d0-bbf5-28a531c7eafb",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 190,
+                    "seconds": 11400,
+                    "milliseconds": 11400000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/a60742e6-418c-365a-9133-7c8e08720bfa/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 156
+            },
+            {
+                "puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+                "name": "The Boys a Liarr",
+                "tag": "Munch",
+                "team": "Red",
+                "level": 169,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "59cb1a87-456b-9b1e-acef-3ca613286339",
+                "player_title": "63057041-4f65-5579-e5a6-d88ae7007ebb",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 188,
+                    "seconds": 11280,
+                    "milliseconds": 11280000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/59cb1a87-456b-9b1e-acef-3ca613286339/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 150,
+                        "average": 150
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 159
+            },
+            {
+                "puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                "name": "XYT",
+                "tag": "NA1",
+                "team": "Red",
+                "level": 83,
+                "character": "Sage",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "55a41308-4fa5-4c3a-afda-86a61ef7ee41",
+                "player_title": "7a6bbce5-4708-42d0-2152-98963ebdcf2c",
+                "party_id": "150a0d68-ab9a-49f8-b50b-f211187b0feb",
+                "session_playtime": {
+                    "minutes": 67,
+                    "seconds": 4020,
+                    "milliseconds": 4020000
+                },
+                "behavior": {
+                    "afk_rounds": 1,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0.10000000149011612
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19044.1.256.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/55a41308-4fa5-4c3a-afda-86a61ef7ee41/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 1,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 159
+            }
+        ],
+        "blue": [
+            {
+                "puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                "name": "Settled",
+                "tag": "0002",
+                "team": "Blue",
+                "level": 154,
+                "character": "Reyna",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "da6843a1-40de-aa1b-0c7f-848d6ffb9b39",
+                "player_title": "d67cef9b-43cd-bc8c-840d-039582975c2a",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 151,
+                    "seconds": 9060,
+                    "milliseconds": 9060000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": 0,
+                    "q_cast": 1,
+                    "e_cast": 0,
+                    "x_cast": 0
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/da6843a1-40de-aa1b-0c7f-848d6ffb9b39/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 646,
+                    "kills": 3,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 1000,
+                        "average": 1000
+                    }
+                },
+                "damage_made": 477,
+                "damage_received": 0
+            },
+            {
+                "puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                "name": "Gary",
+                "tag": "F2P",
+                "team": "Blue",
+                "level": 100,
+                "character": "Cypher",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "2a280896-4e81-c319-ffd3-6b8873042647",
+                "player_title": "41c01df4-4d3d-d08d-58d4-e198763019f2",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 97,
+                    "seconds": 5820,
+                    "milliseconds": 5820000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/2a280896-4e81-c319-ffd3-6b8873042647/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 600,
+                        "average": 600
+                    },
+                    "loadout_value": {
+                        "overall": 600,
+                        "average": 600
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 0
+            },
+            {
+                "puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                "name": "600 ms",
+                "tag": "wifi",
+                "team": "Blue",
+                "level": 58,
+                "character": "KAY/O",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "bc4443d5-449f-b5eb-a179-4c9ff332294b",
+                "player_title": "0a4f7e1d-4478-e4fb-1bab-518d005034db",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 91,
+                    "seconds": 5460,
+                    "milliseconds": 5460000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.19045.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/bc4443d5-449f-b5eb-a179-4c9ff332294b/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 314,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 1,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 450,
+                        "average": 450
+                    },
+                    "loadout_value": {
+                        "overall": 450,
+                        "average": 450
+                    }
+                },
+                "damage_made": 240,
+                "damage_received": 0
+            },
+            {
+                "puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                "name": "Sofa",
+                "tag": "1337",
+                "team": "Blue",
+                "level": 173,
+                "character": "Astra",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "72f9b137-41f1-ef95-853a-798212f064ee",
+                "player_title": "184e2e0d-4df5-2979-9bb0-93b102cf38fd",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 148,
+                    "seconds": 8880,
+                    "milliseconds": 8880000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/72f9b137-41f1-ef95-853a-798212f064ee/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 0,
+                    "kills": 0,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 650,
+                        "average": 650
+                    }
+                },
+                "damage_made": 0,
+                "damage_received": 0
+            },
+            {
+                "puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                "name": "Glunstan",
+                "tag": "WHAT",
+                "team": "Blue",
+                "level": 208,
+                "character": "Sage",
+                "currenttier": 0,
+                "currenttier_patched": "Unrated",
+                "player_card": "8b8c15ec-432a-85ab-b58b-9b918877e4f7",
+                "player_title": "21dda67e-46d9-081d-0436-fc93fbb1331d",
+                "party_id": "bfd3f005-8dda-4aa3-a384-eb877558b39e",
+                "session_playtime": {
+                    "minutes": 94,
+                    "seconds": 5640,
+                    "milliseconds": 5640000
+                },
+                "behavior": {
+                    "afk_rounds": 0,
+                    "friendly_fire": {
+                        "incoming": 0,
+                        "outgoing": 0
+                    },
+                    "rounds_in_spawn": 0
+                },
+                "platform": {
+                    "type": "PC",
+                    "os": {
+                        "name": "Windows",
+                        "version": "10.0.22621.1.768.64bit"
+                    }
+                },
+                "ability_casts": {
+                    "c_cast": null,
+                    "q_cast": null,
+                    "e_cast": null,
+                    "x_cast": null
+                },
+                "assets": {
+                    "card": {
+                        "small": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/smallart.png",
+                        "large": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/largeart.png",
+                        "wide": "https://media.valorant-api.com/playercards/8b8c15ec-432a-85ab-b58b-9b918877e4f7/wideart.png"
+                    },
+                    "agent": {
+                        "small": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+                        "bust": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "full": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+                        "killfeed": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/killfeedportrait.png"
+                    }
+                },
+                "stats": {
+                    "score": 190,
+                    "kills": 1,
+                    "deaths": 0,
+                    "assists": 0,
+                    "bodyshots": 3,
+                    "headshots": 1,
+                    "legshots": 0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 800,
+                        "average": 800
+                    },
+                    "loadout_value": {
+                        "overall": 800,
+                        "average": 800
+                    }
+                },
+                "damage_made": 156,
+                "damage_received": 0
+            }
+        ]
+    },
+    "teams": {
+        "red": {
+            "has_won": false,
+            "rounds_won": 0,
+            "rounds_lost": 1
+        },
+        "blue": {
+            "has_won": true,
+            "rounds_won": 1,
+            "rounds_lost": 0
+        }
+    },
+    "rounds": [
+        {
+            "winning_team": "Blue",
+            "end_type": "Eliminated",
+            "bomb_planted": false,
+            "bomb_defused": false,
+            "plant_events": {
+                "plant_location": null,
+                "planted_by": null,
+                "plant_site": null,
+                "plant_time_in_round": null,
+                "player_locations_on_plant": null
+            },
+            "defuse_events": {
+                "defuse_location": null,
+                "defused_by": null,
+                "defuse_time_in_round": null,
+                "player_locations_on_defuse": null
+            },
+            "player_stats": [
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                            "receiver_display_name": "SasukeBowser#6PATH",
+                            "receiver_team": "Red",
+                            "bodyshots": 3,
+                            "damage": 156,
+                            "headshots": 1,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 156,
+                    "bodyshots": 3,
+                    "headshots": 1,
+                    "legshots": 0,
+                    "kill_events": [
+                        {
+                            "kill_time_in_round": 17530,
+                            "kill_time_in_match": 182568,
+                            "killer_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                            "killer_display_name": "Glunstan#WHAT",
+                            "killer_team": "Blue",
+                            "victim_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                            "victim_display_name": "SasukeBowser#6PATH",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1950,
+                                "y": 800
+                            },
+                            "damage_weapon_id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "damage_weapon_name": "Classic",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                                    "player_display_name": "Glunstan#WHAT",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1217,
+                                        "y": -735
+                                    },
+                                    "view_radians": 1.1225868
+                                },
+                                {
+                                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                                    "player_display_name": "Sofa#1337",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 4808,
+                                        "y": -4590
+                                    },
+                                    "view_radians": 0.13911334
+                                },
+                                {
+                                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                                    "player_display_name": "Settled#0002",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1260,
+                                        "y": -857
+                                    },
+                                    "view_radians": 1.1759322
+                                },
+                                {
+                                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                                    "player_display_name": "Gary#F2P",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1208,
+                                        "y": -576
+                                    },
+                                    "view_radians": 1.0841105
+                                },
+                                {
+                                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "player_display_name": "600 ms#wifi",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1030,
+                                        "y": -845
+                                    },
+                                    "view_radians": 0.929305
+                                },
+                                {
+                                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                                    "player_display_name": "a bad player 1#ezzzz",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2250,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                }
+                            ],
+                            "assistants": []
+                        }
+                    ],
+                    "kills": 1,
+                    "score": 190,
+                    "economy": {
+                        "loadout_value": 800,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": "4DEC83D5-4902-9AB3-BED6-A7A390761157",
+                            "name": "Light Shields",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/gear/4dec83d5-4902-9ab3-bed6-a7a390761157/displayicon.png"
+                            }
+                        },
+                        "remaining": 0,
+                        "spent": 800
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 650,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 0,
+                        "spent": 800
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+                            "receiver_display_name": "The Boys a Liarr#Munch",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 159,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                            "receiver_display_name": "XYT#NA1",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 159,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                            "receiver_display_name": "a bad player 1#ezzzz",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 159,
+                            "headshots": 1,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 477,
+                    "bodyshots": 0,
+                    "headshots": 3,
+                    "legshots": 0,
+                    "kill_events": [
+                        {
+                            "kill_time_in_round": 16130,
+                            "kill_time_in_match": 181168,
+                            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                            "killer_display_name": "Settled#0002",
+                            "killer_team": "Blue",
+                            "victim_puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+                            "victim_display_name": "The Boys a Liarr#Munch",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1650,
+                                "y": 800
+                            },
+                            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+                            "damage_weapon_name": "Sheriff",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                                    "player_display_name": "Glunstan#WHAT",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1217,
+                                        "y": -735
+                                    },
+                                    "view_radians": 1.133133
+                                },
+                                {
+                                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                                    "player_display_name": "Sofa#1337",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 4749,
+                                        "y": -4832
+                                    },
+                                    "view_radians": 0.1731486
+                                },
+                                {
+                                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                                    "player_display_name": "Settled#0002",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1260,
+                                        "y": -857
+                                    },
+                                    "view_radians": 1.3383973
+                                },
+                                {
+                                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                                    "player_display_name": "Gary#F2P",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 940,
+                                        "y": -819
+                                    },
+                                    "view_radians": 0.8021361
+                                },
+                                {
+                                    "player_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                                    "player_display_name": "Smol fwuit#NA1",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2100,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "player_display_name": "600 ms#wifi",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1020,
+                                        "y": -847
+                                    },
+                                    "view_radians": 0.9317979
+                                },
+                                {
+                                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                                    "player_display_name": "a bad player 1#ezzzz",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2250,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                                    "player_display_name": "SasukeBowser#6PATH",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1950,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                                    "player_display_name": "XYT#NA1",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1800,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                }
+                            ],
+                            "assistants": []
+                        },
+                        {
+                            "kill_time_in_round": 17074,
+                            "kill_time_in_match": 182112,
+                            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                            "killer_display_name": "Settled#0002",
+                            "killer_team": "Blue",
+                            "victim_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                            "victim_display_name": "XYT#NA1",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 1800,
+                                "y": 800
+                            },
+                            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+                            "damage_weapon_name": "Sheriff",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                                    "player_display_name": "Glunstan#WHAT",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1217,
+                                        "y": -735
+                                    },
+                                    "view_radians": 1.1398445
+                                },
+                                {
+                                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                                    "player_display_name": "Sofa#1337",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 4728,
+                                        "y": -4644
+                                    },
+                                    "view_radians": 0.13911334
+                                },
+                                {
+                                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                                    "player_display_name": "Settled#0002",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1260,
+                                        "y": -857
+                                    },
+                                    "view_radians": 1.2586309
+                                },
+                                {
+                                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                                    "player_display_name": "Gary#F2P",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1208,
+                                        "y": -576
+                                    },
+                                    "view_radians": 1.0229253
+                                },
+                                {
+                                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "player_display_name": "600 ms#wifi",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1037,
+                                        "y": -854
+                                    },
+                                    "view_radians": 1.0015925
+                                },
+                                {
+                                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                                    "player_display_name": "a bad player 1#ezzzz",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2250,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                                    "player_display_name": "SasukeBowser#6PATH",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1950,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                }
+                            ],
+                            "assistants": []
+                        },
+                        {
+                            "kill_time_in_round": 18191,
+                            "kill_time_in_match": 183229,
+                            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                            "killer_display_name": "Settled#0002",
+                            "killer_team": "Blue",
+                            "victim_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                            "victim_display_name": "a bad player 1#ezzzz",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 2250,
+                                "y": 800
+                            },
+                            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+                            "damage_weapon_name": "Sheriff",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                                    "player_display_name": "Glunstan#WHAT",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1217,
+                                        "y": -735
+                                    },
+                                    "view_radians": 0.9909527
+                                },
+                                {
+                                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                                    "player_display_name": "Sofa#1337",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 5027,
+                                        "y": -4539
+                                    },
+                                    "view_radians": 0.15172681
+                                },
+                                {
+                                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                                    "player_display_name": "Settled#0002",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1260,
+                                        "y": -857
+                                    },
+                                    "view_radians": 1.0269037
+                                },
+                                {
+                                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                                    "player_display_name": "Gary#F2P",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1208,
+                                        "y": -576
+                                    },
+                                    "view_radians": 0.94710183
+                                },
+                                {
+                                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "player_display_name": "600 ms#wifi",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1072,
+                                        "y": -857
+                                    },
+                                    "view_radians": 0.9509719
+                                }
+                            ],
+                            "assistants": [
+                                {
+                                    "assistant_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "assistant_display_name": "600 ms#wifi",
+                                    "assistant_team": "Blue"
+                                }
+                            ]
+                        }
+                    ],
+                    "kills": 3,
+                    "score": 646,
+                    "economy": {
+                        "loadout_value": 1000,
+                        "weapon": {
+                            "id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+                            "name": "Sheriff",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 0,
+                        "spent": 800
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 600,
+                        "weapon": {
+                            "id": "1BAA85B4-4C70-1284-64BB-6481DFC3BB4E",
+                            "name": "Ghost",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 200,
+                        "spent": 600
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                    "player_display_name": "Smol fwuit#NA1",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "damage_events": [
+                        {
+                            "receiver_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                            "receiver_display_name": "a bad player 1#ezzzz",
+                            "receiver_team": "Red",
+                            "bodyshots": 1,
+                            "damage": 84,
+                            "headshots": 1,
+                            "legshots": 0
+                        },
+                        {
+                            "receiver_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                            "receiver_display_name": "Smol fwuit#NA1",
+                            "receiver_team": "Red",
+                            "bodyshots": 0,
+                            "damage": 156,
+                            "headshots": 2,
+                            "legshots": 0
+                        }
+                    ],
+                    "damage": 240,
+                    "bodyshots": 1,
+                    "headshots": 3,
+                    "legshots": 0,
+                    "kill_events": [
+                        {
+                            "kill_time_in_round": 16602,
+                            "kill_time_in_match": 181640,
+                            "killer_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                            "killer_display_name": "600 ms#wifi",
+                            "killer_team": "Blue",
+                            "victim_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                            "victim_display_name": "Smol fwuit#NA1",
+                            "victim_team": "Red",
+                            "victim_death_location": {
+                                "x": 2100,
+                                "y": 800
+                            },
+                            "damage_weapon_id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+                            "damage_weapon_name": "Frenzy",
+                            "damage_weapon_assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+                            },
+                            "secondary_fire_mode": false,
+                            "player_locations_on_kill": [
+                                {
+                                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                                    "player_display_name": "Glunstan#WHAT",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1217,
+                                        "y": -735
+                                    },
+                                    "view_radians": 1.1273808
+                                },
+                                {
+                                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                                    "player_display_name": "Sofa#1337",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 4728,
+                                        "y": -4709
+                                    },
+                                    "view_radians": 0.1731486
+                                },
+                                {
+                                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                                    "player_display_name": "Settled#0002",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1260,
+                                        "y": -857
+                                    },
+                                    "view_radians": 1.2780925
+                                },
+                                {
+                                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                                    "player_display_name": "Gary#F2P",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1117,
+                                        "y": -717
+                                    },
+                                    "view_radians": 0.99613374
+                                },
+                                {
+                                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                                    "player_display_name": "600 ms#wifi",
+                                    "player_team": "Blue",
+                                    "location": {
+                                        "x": 1037,
+                                        "y": -854
+                                    },
+                                    "view_radians": 1.0010175
+                                },
+                                {
+                                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                                    "player_display_name": "a bad player 1#ezzzz",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 2250,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                                    "player_display_name": "SasukeBowser#6PATH",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1950,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                },
+                                {
+                                    "player_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                                    "player_display_name": "XYT#NA1",
+                                    "player_team": "Red",
+                                    "location": {
+                                        "x": 1800,
+                                        "y": 800
+                                    },
+                                    "view_radians": 4.712389
+                                }
+                            ],
+                            "assistants": []
+                        }
+                    ],
+                    "kills": 1,
+                    "score": 314,
+                    "economy": {
+                        "loadout_value": 450,
+                        "weapon": {
+                            "id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+                            "name": "Frenzy",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 350,
+                        "spent": 450
+                    },
+                    "was_afk": false,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                    "player_display_name": "a bad player 1#ezzzz",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                    "player_display_name": "SasukeBowser#6PATH",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+                    "player_display_name": "The Boys a Liarr#Munch",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 150,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                },
+                {
+                    "ability_casts": {
+                        "c_casts": null,
+                        "q_casts": null,
+                        "e_cast": null,
+                        "x_cast": null
+                    },
+                    "player_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                    "player_display_name": "XYT#NA1",
+                    "player_team": "Red",
+                    "damage_events": [],
+                    "damage": 0,
+                    "bodyshots": 0,
+                    "headshots": 0,
+                    "legshots": 0,
+                    "kill_events": [],
+                    "kills": 0,
+                    "score": 0,
+                    "economy": {
+                        "loadout_value": 0,
+                        "weapon": {
+                            "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+                            "name": "Classic",
+                            "assets": {
+                                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+                            }
+                        },
+                        "armor": {
+                            "id": null,
+                            "name": null,
+                            "assets": {
+                                "display_icon": null
+                            }
+                        },
+                        "remaining": 800,
+                        "spent": 0
+                    },
+                    "was_afk": true,
+                    "was_penalized": false,
+                    "stayed_in_spawn": false
+                }
+            ]
+        }
+    ],
+    "kills": [
+        {
+            "kill_time_in_round": 16130,
+            "kill_time_in_match": 181168,
+            "round": 0,
+            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+            "killer_display_name": "Settled#0002",
+            "killer_team": "Blue",
+            "victim_puuid": "c56251ec-4e49-513f-801d-b7ca32026f61",
+            "victim_display_name": "The Boys a Liarr#Munch",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1650,
+                "y": 800
+            },
+            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+            "damage_weapon_name": "Sheriff",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1217,
+                        "y": -735
+                    },
+                    "view_radians": 1.133133
+                },
+                {
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 4749,
+                        "y": -4832
+                    },
+                    "view_radians": 0.1731486
+                },
+                {
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1260,
+                        "y": -857
+                    },
+                    "view_radians": 1.3383973
+                },
+                {
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 940,
+                        "y": -819
+                    },
+                    "view_radians": 0.8021361
+                },
+                {
+                    "player_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+                    "player_display_name": "Smol fwuit#NA1",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2100,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1020,
+                        "y": -847
+                    },
+                    "view_radians": 0.9317979
+                },
+                {
+                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                    "player_display_name": "a bad player 1#ezzzz",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2250,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                    "player_display_name": "SasukeBowser#6PATH",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1950,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                    "player_display_name": "XYT#NA1",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1800,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 16602,
+            "kill_time_in_match": 181640,
+            "round": 0,
+            "killer_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+            "killer_display_name": "600 ms#wifi",
+            "killer_team": "Blue",
+            "victim_puuid": "6c7a729e-90a7-5abf-884b-0f20d715133f",
+            "victim_display_name": "Smol fwuit#NA1",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 2100,
+                "y": 800
+            },
+            "damage_weapon_id": "44D4E95C-4157-0037-81B2-17841BF2E8E3",
+            "damage_weapon_name": "Frenzy",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1217,
+                        "y": -735
+                    },
+                    "view_radians": 1.1273808
+                },
+                {
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 4728,
+                        "y": -4709
+                    },
+                    "view_radians": 0.1731486
+                },
+                {
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1260,
+                        "y": -857
+                    },
+                    "view_radians": 1.2780925
+                },
+                {
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1117,
+                        "y": -717
+                    },
+                    "view_radians": 0.99613374
+                },
+                {
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1037,
+                        "y": -854
+                    },
+                    "view_radians": 1.0010175
+                },
+                {
+                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                    "player_display_name": "a bad player 1#ezzzz",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2250,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                    "player_display_name": "SasukeBowser#6PATH",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1950,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+                    "player_display_name": "XYT#NA1",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1800,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 17074,
+            "kill_time_in_match": 182112,
+            "round": 0,
+            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+            "killer_display_name": "Settled#0002",
+            "killer_team": "Blue",
+            "victim_puuid": "d31f188c-e85c-50ca-b69a-b86a1a206d36",
+            "victim_display_name": "XYT#NA1",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1800,
+                "y": 800
+            },
+            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+            "damage_weapon_name": "Sheriff",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1217,
+                        "y": -735
+                    },
+                    "view_radians": 1.1398445
+                },
+                {
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 4728,
+                        "y": -4644
+                    },
+                    "view_radians": 0.13911334
+                },
+                {
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1260,
+                        "y": -857
+                    },
+                    "view_radians": 1.2586309
+                },
+                {
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1208,
+                        "y": -576
+                    },
+                    "view_radians": 1.0229253
+                },
+                {
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1037,
+                        "y": -854
+                    },
+                    "view_radians": 1.0015925
+                },
+                {
+                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                    "player_display_name": "a bad player 1#ezzzz",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2250,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                },
+                {
+                    "player_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+                    "player_display_name": "SasukeBowser#6PATH",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 1950,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 17530,
+            "kill_time_in_match": 182568,
+            "round": 0,
+            "killer_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+            "killer_display_name": "Glunstan#WHAT",
+            "killer_team": "Blue",
+            "victim_puuid": "9c6b7f61-c012-5b87-a291-c6ea64c1058e",
+            "victim_display_name": "SasukeBowser#6PATH",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 1950,
+                "y": 800
+            },
+            "damage_weapon_id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
+            "damage_weapon_name": "Classic",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1217,
+                        "y": -735
+                    },
+                    "view_radians": 1.1225868
+                },
+                {
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 4808,
+                        "y": -4590
+                    },
+                    "view_radians": 0.13911334
+                },
+                {
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1260,
+                        "y": -857
+                    },
+                    "view_radians": 1.1759322
+                },
+                {
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1208,
+                        "y": -576
+                    },
+                    "view_radians": 1.0841105
+                },
+                {
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1030,
+                        "y": -845
+                    },
+                    "view_radians": 0.929305
+                },
+                {
+                    "player_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+                    "player_display_name": "a bad player 1#ezzzz",
+                    "player_team": "Red",
+                    "location": {
+                        "x": 2250,
+                        "y": 800
+                    },
+                    "view_radians": 4.712389
+                }
+            ],
+            "assistants": []
+        },
+        {
+            "kill_time_in_round": 18191,
+            "kill_time_in_match": 183229,
+            "round": 0,
+            "killer_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+            "killer_display_name": "Settled#0002",
+            "killer_team": "Blue",
+            "victim_puuid": "152cee51-e1d6-58b7-a852-329a802421aa",
+            "victim_display_name": "a bad player 1#ezzzz",
+            "victim_team": "Red",
+            "victim_death_location": {
+                "x": 2250,
+                "y": 800
+            },
+            "damage_weapon_id": "E336C6B8-418D-9340-D77F-7A9E4CFE0702",
+            "damage_weapon_name": "Sheriff",
+            "damage_weapon_assets": {
+                "display_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+                "killfeed_icon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png"
+            },
+            "secondary_fire_mode": false,
+            "player_locations_on_kill": [
+                {
+                    "player_puuid": "80c9a565-7413-5c96-9e6d-10b64f1ffaa1",
+                    "player_display_name": "Glunstan#WHAT",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1217,
+                        "y": -735
+                    },
+                    "view_radians": 0.9909527
+                },
+                {
+                    "player_puuid": "8ac4224f-e615-50b6-865c-d7a3ec1505d4",
+                    "player_display_name": "Sofa#1337",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 5027,
+                        "y": -4539
+                    },
+                    "view_radians": 0.15172681
+                },
+                {
+                    "player_puuid": "2418652d-25b3-5e24-9375-1313d0e13766",
+                    "player_display_name": "Settled#0002",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1260,
+                        "y": -857
+                    },
+                    "view_radians": 1.0269037
+                },
+                {
+                    "player_puuid": "9407631a-8a8c-5c83-bb4c-c706718c3360",
+                    "player_display_name": "Gary#F2P",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1208,
+                        "y": -576
+                    },
+                    "view_radians": 0.94710183
+                },
+                {
+                    "player_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "player_display_name": "600 ms#wifi",
+                    "player_team": "Blue",
+                    "location": {
+                        "x": 1072,
+                        "y": -857
+                    },
+                    "view_radians": 0.9509719
+                }
+            ],
+            "assistants": [
+                {
+                    "assistant_puuid": "a8db9c5e-2376-5fbe-9355-f655c12cb032",
+                    "assistant_display_name": "600 ms#wifi",
+                    "assistant_team": "Blue"
+                }
+            ]
+        }
+    ]
+}
